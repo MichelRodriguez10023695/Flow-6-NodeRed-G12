@@ -162,9 +162,9 @@ Para arrancar el entorno necesario, puedes usar los siguientes comandos.
 
 Cuando haya funcionado, verás los indicadores con valores y las gráficas indicando los cambios históricos. 
 
-![]()
+![](https://github.com/MichelRodriguez10023695/Flow-6-NodeRed-G12/blob/main/images/Screenshot%20from%202023-06-02%2016-03-47.png)
 
-![]()
+![](https://github.com/MichelRodriguez10023695/Flow-6-NodeRed-G12/blob/main/images/Screenshot%20from%202023-06-02%2016-26-40.png)
 
 ![]()
 
